@@ -97,7 +97,7 @@ Currently strengthening my core computer science fundamentals and preparing for 
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=JetBrains%20Mono&ext=contest&v=1"/>
 
 </p>
 
