@@ -24,10 +24,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/1905-abhishek/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="https://x.com/AbhishekJ_19">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
@@ -66,7 +62,7 @@ class Developer {
 
 # 🚀 Engineering Focus
 
-Currently strengthening my core computer science fundamentals and preparing for software engineering roles in product-based companies.
+Currently strengthening core computer science fundamentals and preparing for software engineering roles in product-based companies.
 
 **Key Areas**
 
@@ -97,7 +93,7 @@ Currently strengthening my core computer science fundamentals and preparing for 
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=JetBrains%20Mono&ext=contest&v=1"/>
+<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=JetBrains%20Mono"/>
 
 </p>
 
@@ -137,7 +133,7 @@ Currently strengthening my core computer science fundamentals and preparing for 
 
 ---
 
-# Profile Visitors
+# 👁 Profile Visitors
 
 <p align="center">
 
