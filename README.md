@@ -147,7 +147,7 @@ Currently strengthening core computer science fundamentals and preparing for sof
 
 ---
 
-# 👁 Profile Visitors
+# Profile Visitors
 
 <p align="center">
 
