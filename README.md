@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://discord.com/users/19abhi">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 
 </p>
@@ -53,8 +53,6 @@ class Developer {
 
     String currentlyLearning = "Advanced DSA & Backend Development";
 
-    String motto = "Consistency > Motivation";
-
 }
 ```
 
@@ -75,7 +73,6 @@ Currently strengthening core computer science fundamentals and preparing for sof
 • Advanced DSA patterns
 • Graph algorithms
 • System design fundamentals
-• Scalable backend architectures
 
 ---
 
@@ -89,13 +86,30 @@ Currently strengthening core computer science fundamentals and preparing for sof
 
 ---
 
-# 🧠 Problem Solving Stats
+# 🧠 Problem Solving Platforms
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=JetBrains%20Mono"/>
+<a href="https://leetcode.com/u/1905-abhishek/">
+<img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/AbhiCodesX">
+<img src="https://img.shields.io/badge/Codeforces-Visit%20Profile-blue?style=for-the-badge&logo=codeforces"/>
+</a>
 
 </p>
+
+---
+
+# 📈 LeetCode Progress
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=JetBrains%20Mono&ext=heatmap&cache=1"/>
+
+</p>
+
 
 ---
 
