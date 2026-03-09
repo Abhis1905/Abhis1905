@@ -24,21 +24,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/1905-abhishek/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/AbhiCodesX">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-</a>
 
 <a href="https://x.com/AbhishekJ_19">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="https://github.com/Abhis1905">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="https://discord.com/users/19abhi">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
