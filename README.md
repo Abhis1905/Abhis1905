@@ -83,7 +83,7 @@ class CurrentFocus {
 
 <div align="center">
 
-### 🫀 CardioScan — AI Heart Disease Prediction
+###                   🫀 CardioScan 
 
 <a href="https://cardio-scan-lac.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-f43f5e?style=for-the-badge&labelColor=0a0f1e"/></a>
 <a href="https://github.com/Abhis1905/CardioScan"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
