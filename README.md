@@ -1,12 +1,16 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hi%2C%20I'm%20Abhishek%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&stroke=00F7FF&strokeWidth=2"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer+%26+Competitive+Programmer;Full-Stack+Web+%26+ML+Engineer;Algorithmic+Problem+Solver;Building+things+that+matter+%F0%9F%9A%80"/>
+</p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Abhishek&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer;Competitive+Programmer;Algorithmic+Problem+Solver;Full-Stack+ML+Engineer"/>
-</p>
-<p align="center">
-💻 Computer Science Engineer • ⚡ Problem Solver • 🚀 Building Scalable Systems
+<img src="https://img.shields.io/badge/CS_Engineer-CV_Raman_Global_University-00F7FF?style=flat-square&labelColor=0f2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_To-Opportunities-22c55e?style=flat-square&labelColor=0f2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-DSA_%26_ML_Engineering-f43f5e?style=flat-square&labelColor=0f2027"/>
 </p>
 
 ---
@@ -33,13 +37,13 @@ class Developer {
     String university = "CV Raman Global University";
     String[] expertise = {
         "Java",
-        "Data Structures",
-        "Algorithms",
-        "Problem Solving",
+        "Data Structures & Algorithms",
+        "Competitive Programming",
         "Full-Stack ML Engineering"
     };
-    String currentlyLearning = "Advanced DSA & Backend Development";
+    String currentlyLearning = "Advanced DSA & System Design";
     String latestProject = "CardioScan — AI Heart Disease Prediction";
+    boolean openToWork = true;
 }
 ```
 
@@ -47,24 +51,26 @@ class Developer {
 
 # 🚀 Engineering Focus
 
-Currently strengthening core computer science fundamentals and preparing for software engineering roles in product-based companies.
-
-**Key Areas**
-- Data Structures & Algorithms
-- Competitive Programming
-- Backend Development
-- Full-Stack ML Engineering
-
-**Currently Exploring**
-- Advanced DSA patterns
-- Graph algorithms
-- System design fundamentals
-
----
-
-# ⚙️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,flask,spring,git,github,docker,postgres"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=DSA+%26+Competitive+Programming+%E2%9A%A1;Backend+%26+Full-Stack+ML+Engineering+%F0%9F%A7%A0;Targeting+product-based+companies+%F0%9F%8E%AF;Graph+Algorithms+%7C+System+Design+%7C+Advanced+DSA"/>
+</p>
+
+```java
+class CurrentFocus {
+    String[] active   = {"DSA & Algorithms", "Competitive Programming",
+                         "Backend Development", "Full-Stack ML Engineering"};
+    String[] learning = {"Advanced DSA Patterns", "Graph Algorithms", "System Design"};
+}
+```
+
+<p align="center">
+<img src="https://img.shields.io/badge/DSA-Active-00F7FF?style=flat-square&labelColor=0f2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CP-Active-00F7FF?style=flat-square&labelColor=0f2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/System_Design-Learning-f43f5e?style=flat-square&labelColor=0f2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ML-Building-22c55e?style=flat-square&labelColor=0f2027"/>
 </p>
 
 ---
@@ -72,15 +78,15 @@ Currently strengthening core computer science fundamentals and preparing for sof
 # 🚀 Featured Projects
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=F43F5E&center=true&vCenter=true&width=750&lines=🫀+Heart+Disease+Prediction+·+98.5%25+Accuracy;🎬+Cinematic+Medical+UI+·+Live+ECG+Background;🧠+SHAP+Explainability+·+Llama+3.3+70B+Chatbot;🌍+8+Languages+·+Dark+Mode+·+PDF+Reports"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2000&pause=800&color=F43F5E&center=true&vCenter=true&width=750&lines=🫀+98.5%25+Accurate+Heart+Disease+Prediction;🎬+Cinematic+ECG+UI+%2B+Llama+3.3+70B+Chatbot;🔬+SHAP+Explainability+%2B+What-If+Analysis;🌍+8+Languages+%2B+PDF+Reports+%2B+Admin+Panel"/>
 </p>
 
 <div align="center">
 
 ### 🫀 CardioScan — AI Heart Disease Prediction
 
-<a href="https://cardio-scan-lac.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-f43f5e?style=for-the-badge&labelColor=0a0f1e"/></a>
-<a href="https://github.com/Abhis1905/CardioScan"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://cardio-scan-lac.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-f43f5e?style=for-the-badge&labelColor=0a0f1e"/></a>
+<a href="https://github.com/Abhis1905/CardioScan"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MIT-22c55e?style=for-the-badge&label=License"/>
 <img src="https://img.shields.io/badge/Status-Live_🟢-0a0f1e?style=for-the-badge"/>
 
@@ -99,7 +105,7 @@ Currently strengthening core computer science fundamentals and preparing for sof
 
 <br/>
 
-> 🏥 Predicts heart disease risk with **98.5% accuracy** using 3 ML models — with SHAP explainability, Llama 3.3 70B chatbot, cinematic ECG animations, and a full clinical dashboard.
+> 🏥 Predicts heart disease risk with **98.5% accuracy** — SHAP explainability, Llama 3.3 70B chatbot, cinematic ECG animations, and a full clinical dashboard.
 ```python
 CardioScan = {
     "accuracy"  : "98.5%  →  Random Forest + Ensemble Voting",
@@ -169,3 +175,7 @@ Consistency beats motivation.
 Solve problems daily.
 Learn deeply.
 Build things that matter.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
