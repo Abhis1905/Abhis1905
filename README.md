@@ -120,6 +120,43 @@ CardioScan = {
 ```
 
 ---
+---
+
+<div align="center">
+
+### 🖥️ Portfolio
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2000&pause=800&color=FF6B2B&center=true&vCenter=true&width=750&lines=⚡+React+18+%2B+Tailwind+CSS;🖱️+Custom+Cursor+%2B+Scroll+Animations;📊+Live+LeetCode+Stats+%2B+Animated+Timeline;📬+Web3Forms+Contact+%2B+Netlify+Deploy"/>
+</p>
+
+<a href="https://1905-abhishek.netlify.app"><img src="https://img.shields.io/badge/🌐_Live_Site-Visit_Portfolio-FF6B2B?style=for-the-badge&labelColor=0a0f1e"/></a>
+<a href="https://github.com/Abhis1905/Portfolio"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Status-Live_🟢-0a0f1e?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3Forms-FF6B2B?style=flat-square&labelColor=0a0f1e"/>
+
+</div>
+
+<br/>
+
+> 🚀 Personal portfolio — animated name reveal, live LeetCode stats, scroll-triggered timeline, and a contact form straight to Gmail.
+```js
+Portfolio = {
+    hero      : "Animated name reveal · typewriter · live stats",
+    experience: "Animated drawing timeline — The Journey",
+    leetcode  : "Live card · Easy 8 · Medium 26 · Hard 17",
+    contact   : "Web3Forms · no backend · straight to Gmail",
+    deploy    : "Netlify · custom glassy AK favicon",
+}
+```
+
+---
 
 # 🧠 Problem Solving Platforms
 <p align="center">
