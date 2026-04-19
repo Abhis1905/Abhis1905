@@ -34,7 +34,7 @@ Status  ✅ Open to Work
 **`> CONNECT`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1905-abhishek/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B2B?style=flat-square&logo=netlify&logoColor=white)](https://1905-abhishek.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B2B?style=flat-square&logo=netlify&logoColor=white)](https://1905-abhishek.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/1905-abhishek/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AbhiCodesX)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekjha1905@gmail.com)
