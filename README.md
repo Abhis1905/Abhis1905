@@ -178,7 +178,7 @@ targeting  = "Product-based SWE / MLE"
 
 **📊 &nbsp; DSA Performance Dashboard**
 
-<img src="./dsa-stats.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Abhis1905/Abhis1905/main/dsa-stats.svg" width="100%"/>
 
 [![Codolio](https://img.shields.io/badge/Codolio-Full%20DSA%20Profile-6C63FF?style=flat-square)](https://codolio.com/profile/1905-abhishek)
 
