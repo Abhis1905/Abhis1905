@@ -1,6 +1,6 @@
 <!--
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ABHISHEK Kumar — GITHUB PROFILE README v3.0
+  ABHISHEK Kumar — GITHUB PROFILE README v3.1
   Architecture: Command Center / Editorial Dashboard
   Design: Zero clutter. Maximum signal. Unprecedented layout.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -61,7 +61,7 @@ targeting  = "Product-based SWE / MLE"
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+scalable+systems+%26+ML+pipelines;175%2B+DSA+problems+across+platforms;Shipping+things+that+work+at+scale;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+Spring+%C2%B7+Flask" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+scalable+systems+%26+ML+pipelines;180%2B+DSA+problems+across+platforms;Shipping+things+that+work+at+scale;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+Spring+%C2%B7+Flask" />
 
 <br/>
 
@@ -178,7 +178,9 @@ targeting  = "Product-based SWE / MLE"
 
 **📊 &nbsp; DSA Performance Dashboard**
 
-<img src="https://leetcard.jacoblin.cool/1905-abhishek?theme=dark&font=Fira+Code&ext=heatmap&cache=1" width="100%"/>
+<img src="./dsa-stats.svg" width="100%"/>
+
+[![Codolio](https://img.shields.io/badge/Codolio-Full%20DSA%20Profile-6C63FF?style=flat-square)](https://codolio.com/profile/1905-abhishek)
 
 </td>
 
@@ -195,7 +197,7 @@ targeting  = "Product-based SWE / MLE"
 ```
 Platform    Handle              Status
 ────────    ──────────────────  ──────
-LeetCode    1905-abhishek       100+
+LeetCode    1905-abhishek       61+
 Codeforces  AbhiCodesX          Active
 ```
 
@@ -208,7 +210,7 @@ Codeforces  AbhiCodesX          Active
 
 <!-- ████████████████████  ACTIVITY GRAPH  ████████████████████ -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhis1905&theme=tokyo-night&hide_border=true&area=true&custom_title=◈%20Contribution%20Activity%20%E2%80%94%20Abhishek%20Kumar" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhis1905&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20-%20Abhishek%20Kumar" width="100%"/>
 
 ---
 
@@ -220,7 +222,7 @@ Codeforces  AbhiCodesX          Active
 <tr>
 <td width="50%">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio%20Site-FF6B2B?style=flat-square)](https://1905-abhishek.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio%20Site-FF6B2B?style=flat-square)](https://1905-abhishek.vercel.app)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/Abhis1905/Portfolio)
 
 React 18 · Tailwind · Framer Motion · Live LeetCode card · Web3Forms
