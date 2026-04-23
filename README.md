@@ -61,7 +61,7 @@ targeting  = "Product-based SWE / MLE"
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+scalable+systems+%26+ML+pipelines;100%2B+DSA+problems+across+platforms;Shipping+things+that+work+at+scale;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+Spring+%C2%B7+Flask" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+scalable+systems+%26+ML+pipelines;175%2B+DSA+problems+across+platforms;Shipping+things+that+work+at+scale;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+Spring+%C2%B7+Flask" />
 
 <br/>
 
