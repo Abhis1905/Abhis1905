@@ -17,10 +17,30 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Fetch Codolio Stats SVG
         run: |
-          curl -o dsa-stats.svg https://dsastats.vercel.app/api/codolio/1905-abhishek
+          echo "Fetching from dsastats..."
+          curl -v --max-time 120 -L \
+            -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64)" \
+            -H "Accept: image/svg+xml,*/*" \
+            -o dsa-stats.svg \
+            "https://dsastats.vercel.app/api/codolio/1905-abhishek"
+          
+          echo "--- File size: $(wc -c < dsa-stats.svg) bytes ---"
+          echo "--- First 200 chars: ---"
+          head -c 200 dsa-stats.svg
+          
+          # Validate it's actually an SVG
+          if grep -q "<svg" dsa-stats.svg; then
+            echo "✅ Valid SVG received"
+          else
+            echo "❌ Not a valid SVG - contents:"
+            cat dsa-stats.svg
+            exit 1
+          fi
 
       - name: Commit and push changes
         run: |
@@ -29,4 +49,4 @@ jobs:
           git add dsa-stats.svg
           git commit -m "chore: update DSA stats card $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git pull --rebase origin main
-          git push
+          git push origin main
