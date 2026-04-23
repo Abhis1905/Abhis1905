@@ -188,17 +188,11 @@ targeting  = "Product-based SWE / MLE"
 
 **🔥 &nbsp; Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhis1905&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/Abhis1905/Abhis1905/main/codolio-card.png" width="420"/>
 
 <br/>
 
-**`> PROBLEM SOLVING`**
 
-```
-Platform    Handle              Status
-────────    ──────────────────  ──────
-LeetCode    1905-abhishek       61+
-Codeforces  AbhiCodesX          Active
 ```
 
 </td>
